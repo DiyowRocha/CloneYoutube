@@ -177,6 +177,10 @@ body{
     border-bottom-left-radius: 0;
 }
 
+.search-input-img{
+    width: 20px;
+}
+
 .search-btn{
     display: flex;
     align-items: center;
